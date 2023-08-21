@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Solved.ac
-profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhode_park)](https://solved.ac/rhode_park)
+profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhode_park)](https://solved.ac/profile/rhode_park)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhode-park&theme=swift&show_icons=true)
 
